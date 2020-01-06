@@ -1,6 +1,6 @@
 # NavSafe - A Safer Way Around
 
-The final project for SFWRENG 2XB3.
+An android application navigation system which finds the safest route based on past vehicle collision data from Seattle GIS open data
 
 **Team Members**
 - [Arkin Modi](https://gitlab.cas.mcmaster.ca/modia1)
